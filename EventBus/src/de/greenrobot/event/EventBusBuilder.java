@@ -19,7 +19,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
+/*
+@auther   ;
+ */
 /**
  * Creates EventBus instances with custom parameters and also allows to install a custom default EventBus instance.
  * Create a new builder using {@link EventBus#builder()}.
